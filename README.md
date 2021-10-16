@@ -1,4 +1,4 @@
-## Salve, eu sou Wallace e seja bem vindo ao perfil!! 
+## Olá, eu sou Wallace e seja bem vindo ao meu perfil!! 
 
 - 🔭 Estudante de bacharelado em física.
 - ⚡ Atualmente estudando Redes neurais com aplicações ao mercado de capitais.
